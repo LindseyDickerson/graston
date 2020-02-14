@@ -1,0 +1,56 @@
+h3 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: purple;
+}
+
+h5 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: purple;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    color: purple;
+}
+
+.lanaPic {
+    /* border: 1px solid salmon; */
+    width: 452px;
+    margin: auto;
+}
+
+#sleepyLana {
+    /* border: 1px solid orange; */
+    height: 250px;
+    width: 350px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+#catText {
+    /* border: 1px solid black; */
+}
+
+#caption {
+    /* border: 1px solid orange; */
+    width: 55%;
+    margin: auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: purple;
+}
+
+#freeTime {
+    /* border: 1px solid purple; */
+    width: 85%;
+    margin: auto;
+
+}
+
+#freeText {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: purple;
+}
